@@ -1,0 +1,13 @@
+Skill: grafico-profissional
+
+O que vai aqui: o arquivo SKILL.md (com cabeçalho name e description) que ensina a gerar gráficos
+com aparência profissional e consistente, usando matplotlib e seaborn.
+
+Conteúdo previsto:
+- paleta de cores, fontes e tamanhos padrão;
+- títulos que dizem a conclusão, rótulos em português, eixos e legendas legíveis;
+- números destacados nos gráficos (formato R$ 1.234,56; datas DD/MM/AAAA);
+- onde salvar: reports/graficosexecutados/.
+
+Arquivos de apoio (scripts, exemplos, paleta) também podem ficar nesta pasta.
+Esta pasta está vazia por enquanto: o SKILL.md ainda não foi escrito.

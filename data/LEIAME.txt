@@ -1,0 +1,4 @@
+Coloque aqui os dados brutos (somente leitura). Esta pasta não é versionada.
+
+Arquivo esperado: clientes_pixpay.csv (10.016 linhas, 15 colunas).
+O arquivo limpo, clientes_pixpay_limpo.csv, é gerado por scripts/limpar_dados.py.

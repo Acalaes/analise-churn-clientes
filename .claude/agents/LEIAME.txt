@@ -1,0 +1,13 @@
+Subagents do projeto PixPay
+
+O que vai aqui: um arquivo .md por subagent (ex.: auditor-dados.md, analista-churn.md).
+Cada arquivo começa com um cabeçalho (frontmatter) com name, description e, se quiser, tools e model,
+seguido das instruções do subagent em português brasileiro.
+
+Regras que todo subagent deve herdar do CLAUDE.md:
+- questionar premissas falhas antes de executar;
+- nunca descartar dados sem confirmar;
+- mostrar o código exato usado e destacar os números resultantes;
+- valores em R$ 1.234,56 e datas em DD/MM/AAAA.
+
+Esta pasta está vazia por enquanto: nenhum subagent foi criado ainda.

@@ -1,0 +1,13 @@
+Skill: relatorio-executivo
+
+O que vai aqui: o arquivo SKILL.md (com cabeçalho name e description) que ensina a montar o relatório
+executivo em PDF para o CEO, usando reportlab.
+
+Conteúdo previsto:
+- estrutura do relatório (resumo em uma página, achados, riscos e ressalvas, próximos passos);
+- como citar números (R$ 1.234,56; datas DD/MM/AAAA) e como separar associação de causa;
+- ressalvas obrigatórias (limites dos dados, perguntas em aberto para a PixPay);
+- onde salvar: reports/.
+
+Arquivos de apoio (modelos, scripts) também podem ficar nesta pasta.
+Esta pasta está vazia por enquanto: o SKILL.md ainda não foi escrito.

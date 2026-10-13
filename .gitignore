@@ -1,0 +1,19 @@
+# Dados: não versionados (contêm CPFs e nomes, mesmo que sintéticos)
+data/*
+!data/LEIAME.txt
+
+# Planilha e relatório de auditoria com as linhas brutas dos clientes
+auditoria_pixpay.xlsx
+auditoria_pixpay.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
